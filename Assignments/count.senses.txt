@@ -1,0 +1,35 @@
+count.01
+	ARG0=counter
+	ARG1=thing counted
+
+	ex: But this is a production designed and directed by Franco
+    	Zeffirelli and paid for by Sybil Harrington, who *trace* has no
+    	need *trace* to count her pennies, unlike Violetta, down to 20
+    	louis at the opera's end.
+
+count.02
+	ARG0="agent, entity causing some grouping"
+	ARG1="theme, thing being included in some group"
+	ARG2="group"
+
+	ex: Mr. Achenbaum has counted among his clients some of the most
+    	visible blue-chip advertisers in the country, including Nissan,
+    	Toyota, Seagram and Backer Spielvogel clients Hyundai and
+    	J.P. Morgan.
+
+count.03
+	ARG0="depender"
+	ARG1="depended on"
+	ARG2="secondary predication on arg1"
+
+	ex: Before the union rejected the company's offer and the strike was
+    	launched  with the graveyard shift of Oct. 4, Boeing had been
+    	counting on turning 96 aircraft out the door in the present
+    	period.
+
+
+count.04
+	ARG1="thing"
+
+	ex: ` What  counts is  the bottom line . '
+	

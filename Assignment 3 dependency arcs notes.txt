@@ -1,0 +1,21 @@
+\usepackage{graphicx}
+
+\includegraphics[scale=0.15]{PerplexityCalculation_VG}
+
+-------------------
+
+sentence 2: I had an oblique nominal (obl) dependency arc from the main predicate of "spoke" to "CNN" as an obl at first and in turn made "to" "CNN"'s case. "CNN" is "Style"'s compound while "Style" is the real obl and in would then make "to" attach to "Style" as the case.
+
+sentence 3: I originally had an oblique nominal (obl) dependency arc from "caused" to "pattern" thinking this relationship would function in a similar manner to the "spoke"-to-"experience" obl dependency arc in sentence 2. Really the main arc linking to pattern from the first half of the sentence is in the form of a nominal modifier (nmod) stemming from "change".
+
+also sentence 3: This also led to an absence of a a nmod dependency arc from pattern to seasons.
+
+sentence 4: I had a marker (mark) dependency arc from "Cup" to "whether", but this is incorrect as "whether" is being introduced to the complement clause "played".
+
+sentence 7: I had an object (obj) dependency arc from the main predicate of "told" to "police", when it should've been an indirect object. The gold standard is correct in this as I overlooked "police" being the recipient of a ditransitive verb of exchange.
+
+sentence 8: I incorrectly arched "signed" to "Osborne" and creating a compound with the latter. The gold standard is correct in this being a flat multiword expression instead, as "Mr Osborne" is an headless/exocentric semi-fixed multiword expression and isn't an endocentric multiword expression. This is common for names.
+
+sentence 9: I initially didn't include two clausal modifier of noun (acl) dependecy arcs between "comments"-and-"sent" and between "schoolchildren"-and-"involved". The standard is correct here because the head of the acl relation, the noun "comments", is being modified by the dependent of the arc, the head of the clause "sent". This also directly applies to the relationship of "schoolchildren" and "involved".
+
+sentence 10: I didn't include an open clausal complement (xcomp) from "become" to "divided" as is present in the gold standard. I agree that because the clausal complement doesn't have its own subject it can be seen as an xcomp. Additionally, because they are not modifying anything they are seen as non-finite which is another characteristic of such complements.
